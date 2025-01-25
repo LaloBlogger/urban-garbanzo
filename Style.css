@@ -31,3 +31,8 @@
 .btn:hover {
   background: #0056b3;
 }
+
+body.blog-page {
+  background: url('Images/your-background-image.jpg') no-repeat center center;
+  background-size: cover; /* Adjust as needed */
+}
