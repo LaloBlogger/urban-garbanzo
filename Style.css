@@ -1,7 +1,7 @@
 /* Fullscreen hero section */
 .hero {
   height: 100vh;
-  background: url('background.jpg') no-repeat center center/cover;
+  background: url('Images/VIc_Piquillin.JPG') no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
