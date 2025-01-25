@@ -1,7 +1,7 @@
 .hero {
-  height: 100vh;
+  height: 50vh;
   background: url('Images/VIc_Piquillin.JPG') no-repeat center center;
-  background-size: 50%; /* Adjust the percentage as needed */
+  background-size: auto; /* Display the image in its original size */
   display: flex;
   justify-content: center;
   align-items: center;
