@@ -18,7 +18,7 @@
 body.blog-page {
   background: url('Images/Vic2020.JPG') no-repeat center;
   background-size: auto; /* Display the image in its original size */
-  background-position: center bottom; /* Move the background image down */
+  background-position: bottom; /* Move the background image down */
 }
 }
 body.blog-page a {
