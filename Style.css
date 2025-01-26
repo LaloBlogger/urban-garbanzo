@@ -17,8 +17,8 @@
 
 body.blog-page {
   background: url('Images/Vic_Piquillin2.JPG') no-repeat center center; 
-  background-size: contain; /* Ensure the background image covers the entire background */
-  background-attachment: fixed; /* Make the background image fixed */
+  background-size: contain; /* Display the image in its original size */ 
+  
 }
 
 body.blog-page a {
