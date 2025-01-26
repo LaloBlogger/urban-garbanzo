@@ -12,15 +12,15 @@
 
 .content {
   max-width: 80%; /* Ensure the content doesn't overflow */
-  margin: Gold;
+  margin: auto; /* Center the content */
 }
 
 body.blog-page {
-  background: url('Images/Vic2020.JPG') no-repeat center;
-  background-size: auto; /* Display the image in its original size */
-  background-position: bottom; /* Move the background image down */
+  background: url('Images/Vic2020.JPG') no-repeat center center; 
+  background-size: cover; /* Ensure the background image covers the entire background */
+  background-attachment: fixed; /* Make the background image fixed */
 }
-}
+
 body.blog-page a {
-  color: white; /* Change link font color to blue */
+  color: white; /* Change link font color to white */
 }
