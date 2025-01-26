@@ -16,7 +16,7 @@
 }
 
 body.blog-page {
-  background: url('Images/Vic2020.JPG') no-repeat center center; 
+  background: url('Images/Vic_Piquillin2.JPG') no-repeat center center; 
   background-size: cover; /* Ensure the background image covers the entire background */
   background-attachment: fixed; /* Make the background image fixed */
 }
