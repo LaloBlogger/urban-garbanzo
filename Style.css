@@ -17,11 +17,8 @@
 
 body.blog-page {
   background: url('Images/Vic_Piquillin2.JPG') no-repeat center center; 
-  background-size: contain; /* Display the image in its original size */ 
-  position: absolute;
-  top: 75%;
+  background-size: contain; /* Ensure the background image is in its original size */
   width: 100%;
-  
 }
 
 body.blog-page a {
