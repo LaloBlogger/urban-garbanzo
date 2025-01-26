@@ -17,5 +17,5 @@
 
 body.blog-page {
   background: url('Images/Vic2020.JPG') no-repeat center center;
-  background-size: cover; /* Adjust as needed */
+  background-size: contain; /* Adjust as needed */
 }
